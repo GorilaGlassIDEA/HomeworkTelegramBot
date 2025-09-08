@@ -1,2 +1,5 @@
 file:
   name: /Users/dmitrijmartynov/IdeaProjects/HomeWorkBot/src/main/resources/excel/schedule.xlsx
+bot:
+  name: your_schedule_homework_bot
+  token: 8372644511:AAHiAY9GENLBbXcvWVK5VLp9Syuq6wxMYfw
